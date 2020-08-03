@@ -14,7 +14,7 @@ Investigation of different conditions for the electrolysis of potassium bromide 
 __Anodic oxidation:__ 2 Br<sup>-</sup> → Br<sub>2</sub> + 2 e<sup>-</sup>\
 __Cathodic reduction:__ 2 H<sub>2</sub>O + 2 e<sup>-</sup> → H<sub>2</sub> + 2 OH<sup>-</sup>
 
-Bromine reacts with hydroxide to form hypobromite, which then dissociates into bromate and bromide:\
+Bromine reacts with hydroxide to form hypobromite, which then disproportionates into bromate and bromide:\
 Br<sub>2</sub> + OH<sup>-</sup> → BrO<sup>-</sup> + Br<sup>-</sup> + H<sup>+</sup>\
 3 BrO<sup>-</sup> → BrO<sub>3</sub><sup>-</sup> + 2 Br<sup>-</sup>
 
