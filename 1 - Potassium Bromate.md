@@ -1,4 +1,5 @@
 # Potassium Bromate (KBrO<sub>3</sub>)
+__Status:__ ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Running
 ## Goal
 Investigation of different conditions for the electrolysis of potassium bromide to potassium bromate.
 
