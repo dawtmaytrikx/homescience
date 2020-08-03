@@ -2,6 +2,14 @@
 ## Goal
 Investigation of different conditions for the electrolysis of potassium bromide to potassium bromate.
 
+
+## To-Do
+- [x] run until electrolyte becomes saturated, observe if it can be recycled and how it affects the yield
+- [ ] try different cell designs to increase batch size, current density and rate of reaction
+- [ ] test a number of different electrodes
+- [ ] test other additives
+
+
 ## Theory
 __Anodic oxidation:__ 2 Br<sup>-</sup> → Br<sub>2</sub> + 2 e<sup>-</sup>\
 __Cathodic reduction:__ 2 H<sub>2</sub>O + 2 e<sup>-</sup> → H<sub>2</sub> + 2 OH<sup>-</sup>
@@ -12,6 +20,7 @@ Br<sub>2</sub> + OH<sup>-</sup> → BrO<sup>-</sup> + Br<sup>-</sup> + H<sup>+</
 
 __Overall reaction:__ Br<sup>-</sup> + 3 H<sub>2</sub>O → BrO<sub>3</sub><sup>-</sup> + 3 H<sub>2</sub>
 
+
 ## Reagents and Products
 ### Potassium Bromide
 Formula: KBr\
@@ -20,7 +29,6 @@ Mol. mass: 119.01 g/mol\
 __Warning__
 
 * H319: Causes serious eye irritation 
-
 
 ### Potassium Dichromate
 Formula: K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>\
@@ -46,7 +54,6 @@ __Danger__
 * H372: Causes damage to organs through prolonged or repeated exposure
 * H400: Very toxic to aquatic life
 * H410: Very toxic to aquatic life with long-lasting effects
-
 
 ### Potassium Bromate
 Formula: KBr</sub>O<sub>3</sub>\
@@ -78,6 +85,7 @@ Some parameters were amended as follows for the second experiment: The titanium 
 ### Run #3
 Same parameters as Run #2: 47.60 g KBr, 200 mL of the electrolyte from previous runs (now saturated with KBrO<sub>3</sub>), 2.89 A constant current (250 mA/cm<sup>2</sup>). The electrolyte now had to be heated to 50 °C to insure dissolution of all the KBr.
 
+
 ## Conclusions
 ### Cathode
 * Steel works, but will eventually corrode above the surface of the electrolyte
@@ -89,9 +97,5 @@ Same parameters as Run #2: 47.60 g KBr, 200 mL of the electrolyte from previous 
 ### Electrolyte
 The electrolyte can be recycled multiple times, and doing so increases the yield because it eventually becomes saturated with KBrO<sub>3</sub>. After the first run it was considered to increase the concentration of the KBr, though after the third run a 2 M solution proved to be ideal, because more would probably not go into solution at the temperature the cell runs at. An increased initial concentration of KBr might work if the voltage were increased.
 
-## To-Do
-- [x] run until electrolyte becomes saturated, observe if it can be recycled and how it affects the yield
-- [ ] try different cell designs to increase batch size, current density and rate of reaction
-- [ ] test a number of different electrodes
-- [ ] test other additives
+
 ## References
