@@ -84,7 +84,7 @@ Some parameters were amended as follows for the second experiment: The titanium 
 105.90 g crude product was dissolved in 236 mL boiling water, filtered hot and slowly cooled down for recrystallisation. The crystalized mass from the filter was redissolved in 30 mL hot water, filtered, and the filtrates combined. Yield after cooling in the refrigerator, vacuum filtration and drying in a desiccator: 90.70 g (85.6 % of theory). The remaining filtrate was concentrated by boiling until a fair amount of crystals had deposited. The resulting slurry was then combined with the electrolyte from the previous runs.
 
 ### Run #3
-Same parameters as Run #2: 47.60 g KBr, 200 mL of the electrolyte from previous runs (now saturated with KBrO<sub>3</sub>), 2.89 A constant current (250 mA/cm<sup>2</sup>). The electrolyte now had to be heated to 50 °C to insure dissolution of all the KBr.
+Same parameters as Run #2: 47.60 g KBr, 200 mL of the electrolyte from previous runs (now saturated with KBrO3), 2.89 A constant current (250 mA/cm2). The electrolyte now had to be heated to 50 °C to insure dissolution of all the KBr. After completion the precipitate was suction filtered, washed with cold water and dried in the dessicator. Yield: 71.10 g (106 % of theoretical 66.8 g)
 
 
 ## Conclusions
@@ -96,7 +96,7 @@ Same parameters as Run #2: 47.60 g KBr, 200 mL of the electrolyte from previous 
 * Platinum works
 
 ### Electrolyte
-The electrolyte can be recycled multiple times, and doing so increases the yield because it eventually becomes saturated with KBrO<sub>3</sub>. After the first run it was considered to increase the concentration of the KBr, though after the third run a 2 M solution proved to be ideal, because more would probably not go into solution at the temperature the cell runs at. An increased initial concentration of KBr might work if the voltage were increased.
+The electrolyte can be recycled multiple times, and doing so increases the yield because it eventually becomes saturated with KBrO<sub>3</sub>. After the first run it was considered to increase the concentration of the KBr, though after the third run a 2 M solution proved to be ideal, because more would probably not go into solution at the temperature of the cell. An increased initial concentration of KBr might work if the voltage were increased.
 
 
 ## References
