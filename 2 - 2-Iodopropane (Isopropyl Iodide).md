@@ -63,7 +63,7 @@ __Danger__
 * H412: Harmful to aquatic life with long-lasting effects.
 
 ### 2-Iodopropane
-CAS: 75-30-9 
+CAS: 75-30-9\
 Formula: C<sub>3</sub>H<sub>8</sub>I\
 Mol. mass: 169.99 g/mol\
 <img src="resources/img/240px-GHS-pictogram-flamme.svg.png" width=100 />
