@@ -49,7 +49,7 @@ __Danger__
 
 
 ## Experimental
-In a 100 mL RBF 20 mL water were added to a mixture of KBr (11.90 g, 100 mmol, 1 eq.) and KHSO4 (14.65 g, 93 %, 100 mmol, 1 eq.), which cooled down considerably during dissolution. It was then set up for distillation, and upon heating the water took on a slight yellow color. After 10 mL of water had passed the mixture looked quite orange, followed shortly by the appearance of crystals in the mixture. After approx. 12 mL had passed the head temperature began rising above 100 °C and the mixture began to bump. The temperature rose up to 123 °C when the distillation was aborted, as it became apparent only miniscule amounts of constant boiling aq. HBr were going to be generated. In the end the 18 mL that had been collected had a pH of approx. 2.
+In a 100 mL RBF 20 mL water were added to a mixture of KBr (11.90 g, 100 mmol, 1 eq.) and KHSO<sub>4</sub> (14.65 g, 93 %, 100 mmol, 1 eq.), which cooled down considerably during dissolution. It was then set up for distillation, and upon heating the water took on a slight yellow color. After 10 mL of water had passed the mixture looked quite orange, followed shortly by the appearance of crystals in the mixture. After approx. 12 mL had passed the head temperature began rising above 100 °C and the mixture began to bump. The temperature rose up to 123 °C when the distillation was aborted, as it became apparent only miniscule amounts of constant boiling aq. HBr were going to be generated. In the end the 18 mL that had been collected had a pH of approx. 2.
 
 
 ## Results
