@@ -53,7 +53,7 @@ In a 100 mL RBF 20 mL water were added to a mixture of KBr (11.90 g, 100 mmol, 1
 
 
 ## Results
-Potassium hydrogensulfate proved unsatisfactory for the preparation of hydrobromic acid. A small amount was produced, but was irrelevant at this scale, as only approx. 2 mL of water remained in the flask that might have provided constant boiling HBr - a significant amount of which would have been held up in the apparatus.
+Potassium hydrogensulfate proved unsatisfactory for the preparation of hydrobromic acid. A small amount was produced, but was irrelevant at this scale, as only less than 2 mL of water remained in the flask that might have provided constant boiling HBr - a significant amount of which would have been held up in the apparatus.
 
 ## References
 <sup>1</sup> Brauer, Georg (1975): Handbuch der Präparativen Anorganischen Chemie. With assistance of Marianne Baudler. 3rd ed. Stuttgart: Ferdinand Enke Verlag. p. 298
